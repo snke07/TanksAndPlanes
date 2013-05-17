@@ -1,0 +1,6 @@
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\Sugar.csprojResolveAssemblyReference.cache
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.exe.config
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.exe
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.pdb
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\GameProjectOOPExam.exe
+c:\users\chu\documents\visual studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\GameProjectOOPExam.pdb

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameProjectOOPExam.GameObject" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAACIAAAAAQAAAAAAAAAQAAAAAACIAAgAAAEAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProjectOOPExam.MovingObject" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAIAAACAAAAAAAAAAAAAAAQAAAIAAAAAAAAA=</HashCode>
+      <FileName>MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Tank" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAACIAAAAAAAAAAAAAAAABAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Tank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Bomb" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Missile" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Missile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Plane" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAgBAIAAAgAAAAAQAAAAAAAAAAAAAIAAgAAAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Engine" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAADYAAAAABQAAAAAIAQAABAoEAAAAAAIAAAAEgAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.ConsoleRenderer" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAAAAAAAABAIAAMgBAAAAAAAAKAAAAAAAAA=</HashCode>
+      <FileName>ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProjectOOPExam.CollisionDispatcher" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionDispatcher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProjectOOPExam.Coordinates" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgABAAAAABAAAAoAAAIAAAAAAAig=</HashCode>
+      <FileName>Coordinates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.KeyboardUserInterface" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardUserInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProjectOOPExam.PlaneProducer" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAHABAAAAAAAAAAAQQAoAAAAAAAAaAAAAAgAAA=</HashCode>
+      <FileName>PlaneProducer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProjectOOPExam.GiftPlane" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAIAAgAAIAAA=</HashCode>
+      <FileName>GiftPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProjectOOPExam.Gift" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Gift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameProjectOOPExam.IObjectProducer" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>IObjectProducer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.IRenderer" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAABAAAAIgAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.IRenderable" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.IUserInterface" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IUserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.ICollisionDispatcher" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICollisionDispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.ICollidable" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProjectOOPExam.IEnemyFactory" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAA=</HashCode>
+      <FileName>IEnemyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

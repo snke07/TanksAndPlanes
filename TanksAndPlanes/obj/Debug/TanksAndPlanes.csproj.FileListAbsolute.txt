@@ -1,0 +1,12 @@
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.exe.config
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.exe
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\bin\Debug\GameProjectOOPExam.pdb
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\GameProjectOOPExam.exe
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\GameProjectOOPExam.pdb
+C:\Users\chu\Documents\Visual Studio 2012\Projects\GameProjectOOPExam\GameProjectOOPExam\obj\Debug\TanksAndPlanes.csprojResolveAssemblyReference.cache
+C:\Users\chu\Desktop\TanksAndPlanes\TanksAndPlanes\bin\Debug\GameProjectOOPExam.exe.config
+C:\Users\chu\Desktop\TanksAndPlanes\TanksAndPlanes\obj\Debug\GameProjectOOPExam.exe
+C:\Users\chu\Desktop\TanksAndPlanes\TanksAndPlanes\obj\Debug\GameProjectOOPExam.pdb
+C:\Users\chu\Documents\Visual Studio 2012\Projects\TanksAndPlanes\TanksAndPlanes\bin\Debug\GameProjectOOPExam.exe.config
+C:\Users\chu\Documents\Visual Studio 2012\Projects\TanksAndPlanes\TanksAndPlanes\obj\Debug\GameProjectOOPExam.exe
+C:\Users\chu\Documents\Visual Studio 2012\Projects\TanksAndPlanes\TanksAndPlanes\obj\Debug\GameProjectOOPExam.pdb
